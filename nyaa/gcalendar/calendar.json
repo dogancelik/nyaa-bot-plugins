@@ -1,0 +1,2551 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/yfC7Jpo7S0QLkXOCPvM2D1SRQzI\"",
+ "summary": "Streaming Times",
+ "description": "",
+ "updated": "2013-08-21T03:38:56.976Z",
+ "timeZone": "America/New_York",
+ "accessRole": "reader",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzODE4MjMzODAwMDAwMA\"",
+   "id": "sk6dref00i51q2t29dgdp0rqek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=c2s2ZHJlZjAwaTUxcTJ0MjlkZ2RwMHJxZWsgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-05-28T05:18:10.000Z",
+   "updated": "2012-05-28T05:18:58.000Z",
+   "summary": "Darker than Black Episodes 5-8",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-05-28T20:00:00-05:00",
+    "timeZone": "America/Chicago"
+   },
+   "end": {
+    "dateTime": "2012-05-28T22:00:00-05:00",
+    "timeZone": "America/Chicago"
+   },
+   "iCalUID": "sk6dref00i51q2t29dgdp0rqek@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzODMyOTY1MzAwMDAwMA\"",
+   "id": "7g41o7g0bfapivlce5jj9tg0a0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2c0MW83ZzBiZmFwaXZsY2U1amo5dGcwYTAgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-05-28T05:21:03.000Z",
+   "updated": "2012-05-29T22:14:13.000Z",
+   "summary": "Clannad Episodes 5-8 (NOTE: MAY NOT HAPPEN, WILL CONTINUE NEXT FRIDAY IF IT DOESN'T.)",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-01T21:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-01T23:00:00-04:00"
+   },
+   "iCalUID": "7g41o7g0bfapivlce5jj9tg0a0@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzODc3MTMwNDAwMDAwMA\"",
+   "id": "fa88meomfmo2ajqglp5q7dcp50",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZmE4OG1lb21mbW8yYWpxZ2xwNXE3ZGNwNTAgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-05-28T05:20:13.000Z",
+   "updated": "2012-06-04T00:55:04.000Z",
+   "summary": "K-On! Episodes 9-12",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-05-29T20:00:00-05:00",
+    "timeZone": "America/Chicago"
+   },
+   "end": {
+    "dateTime": "2012-05-29T22:00:00-05:00",
+    "timeZone": "America/Chicago"
+   },
+   "iCalUID": "fa88meomfmo2ajqglp5q7dcp50@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzODg1NTI3MTAwMDAwMA\"",
+   "id": "b6k645f998nvco83bqnbupqsik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YjZrNjQ1Zjk5OG52Y284M2JxbmJ1cHFzaWsgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-04T00:54:36.000Z",
+   "updated": "2012-06-05T00:14:31.000Z",
+   "summary": "Darker than Black Episodes 9-12",
+   "creator": {
+    "email": "Azusa.Nakano@nyaa-nyaa.com",
+    "displayName": "Azusa.Nakano@nyaa-nyaa.com"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-04T23:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-05T01:00:00-04:00"
+   },
+   "iCalUID": "b6k645f998nvco83bqnbupqsik@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzODg5NDcyMTAwMDAwMA\"",
+   "id": "ttrv1vh6tv80ssp7a227jr9q9o",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dHRydjF2aDZ0djgwc3NwN2EyMjdqcjlxOW8gb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-05T11:12:01.000Z",
+   "updated": "2012-06-05T11:12:01.000Z",
+   "summary": "K-On!! Episodes 1 and 2",
+   "creator": {
+    "email": "mio.akiyama@nyaa-nyaa.com",
+    "displayName": "Mio Akiyama"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-05T20:50:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-05T21:40:00-04:00"
+   },
+   "iCalUID": "ttrv1vh6tv80ssp7a227jr9q9o@google.com",
+   "sequence": 1,
+   "extendedProperties": {
+    "shared": {
+     "CalendarSyncAdapter#originalTimezone": "America/New_York"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzODg5NDcyNDAwMDAwMA\"",
+   "id": "f478u947sdephifu5u13psupt8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZjQ3OHU5NDdzZGVwaGlmdTV1MTNwc3VwdDggb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-04T00:54:52.000Z",
+   "updated": "2012-06-05T11:12:04.000Z",
+   "summary": "K-On! Episodes 13 and 14",
+   "creator": {
+    "email": "Azusa.Nakano@nyaa-nyaa.com",
+    "displayName": "Azusa.Nakano@nyaa-nyaa.com"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-05T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-05T20:50:00-04:00"
+   },
+   "iCalUID": "f478u947sdephifu5u13psupt8@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzODk4MjgyNjAwMDAwMA\"",
+   "id": "kuh37hbcirr76jfnhqjnvrs8ls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=a3VoMzdoYmNpcnI3Nmpmbmhxam52cnM4bHMgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-04T00:50:45.000Z",
+   "updated": "2012-06-06T11:40:26.000Z",
+   "summary": "Kaichou wa Maid-sama Episodes 1-4",
+   "creator": {
+    "email": "Azusa.Nakano@nyaa-nyaa.com",
+    "displayName": "Azusa.Nakano@nyaa-nyaa.com"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-07T21:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-07T23:00:00-04:00"
+   },
+   "iCalUID": "kuh37hbcirr76jfnhqjnvrs8ls@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzOTAxNjc3OTAwMDAwMA\"",
+   "id": "6a70ka2fmt9lhlgtib3vcnl5qc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmE3MGthMmZtdDlsaGxndGliM3Zjbmw1cWMgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-04T00:55:57.000Z",
+   "updated": "2012-06-06T21:06:19.000Z",
+   "summary": "iDolm@ster Episodes 1-4",
+   "creator": {
+    "email": "Azusa.Nakano@nyaa-nyaa.com",
+    "displayName": "Azusa.Nakano@nyaa-nyaa.com"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-06T21:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-06T23:00:00-04:00"
+   },
+   "iCalUID": "6a70ka2fmt9lhlgtib3vcnl5qc@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzOTIwODUwODAwMDAwMA\"",
+   "id": "56r6v6ciajmbqfeiidpaq1svs0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NTZyNnY2Y2lham1icWZlaWlkcGFxMXN2czAgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-04T00:57:05.000Z",
+   "updated": "2012-06-09T02:21:48.000Z",
+   "summary": "Clannad Episodes 5-8",
+   "creator": {
+    "email": "Azusa.Nakano@nyaa-nyaa.com",
+    "displayName": "Azusa.Nakano@nyaa-nyaa.com"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-08T23:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-09T01:00:00-04:00"
+   },
+   "iCalUID": "56r6v6ciajmbqfeiidpaq1svs0@google.com",
+   "sequence": 6
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzOTQ2MjQxMjAwMDAwMA\"",
+   "id": "jsqo2ane3r5khje9k1hjdap8hg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=anNxbzJhbmUzcjVraGplOWsxaGpkYXA4aGcgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-04T00:58:31.000Z",
+   "updated": "2012-06-12T00:53:32.000Z",
+   "summary": "Darker than Black Episodes 13-16",
+   "creator": {
+    "email": "Azusa.Nakano@nyaa-nyaa.com",
+    "displayName": "Azusa.Nakano@nyaa-nyaa.com"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-11T23:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-12T01:00:00-04:00"
+   },
+   "iCalUID": "jsqo2ane3r5khje9k1hjdap8hg@google.com",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzOTUzNDkzMjAwMDAwMA\"",
+   "id": "b5j0qaihk7hdjjrunn6k8lq4gk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YjVqMHFhaWhrN2hkampydW5uNms4bHE0Z2sgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-04T01:00:13.000Z",
+   "updated": "2012-06-12T21:02:12.000Z",
+   "summary": "K-On!! Episodes 3-6",
+   "creator": {
+    "email": "Azusa.Nakano@nyaa-nyaa.com",
+    "displayName": "Azusa.Nakano@nyaa-nyaa.com"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-12T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-12T22:00:00-04:00"
+   },
+   "iCalUID": "b5j0qaihk7hdjjrunn6k8lq4gk@google.com",
+   "sequence": 5
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzOTU0MTIwMjAwMDAwMA\"",
+   "id": "ao9bq65f3nfjme610rq3k5t8no",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YW85YnE2NWYzbmZqbWU2MTBycTNrNXQ4bm8gb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-12T22:46:09.000Z",
+   "updated": "2012-06-12T22:46:42.000Z",
+   "summary": "K-On!! episodes 7-10",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-19T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-19T22:00:00-04:00"
+   },
+   "iCalUID": "ao9bq65f3nfjme610rq3k5t8no@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzOTU0MTIzNjAwMDAwMA\"",
+   "id": "hplidich514khuliaecb9i24g8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aHBsaWRpY2g1MTRraHVsaWFlY2I5aTI0Zzggb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-12T22:47:13.000Z",
+   "updated": "2012-06-12T22:47:16.000Z",
+   "summary": "Darker than Black episodes 13-16",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-18T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-18T22:00:00-04:00"
+   },
+   "iCalUID": "hplidich514khuliaecb9i24g8@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzOTU0MTI5NDAwMDAwMA\"",
+   "id": "a2gio3cm6njavcblt7n74vb6dg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YTJnaW8zY202bmphdmNibHQ3bjc0dmI2ZGcgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-12T22:48:11.000Z",
+   "updated": "2012-06-12T22:48:14.000Z",
+   "summary": "Clannad episodes 13-16",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-22T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-22T22:00:00-04:00"
+   },
+   "iCalUID": "a2gio3cm6njavcblt7n74vb6dg@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzOTYxODQzODAwMDAwMA\"",
+   "id": "4e5v9hflcelhrru9uuua0m9450",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NGU1djloZmxjZWxocnJ1OXV1dWEwbTk0NTAgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-04T00:56:50.000Z",
+   "updated": "2012-06-13T20:13:58.000Z",
+   "summary": "Kaichou wa Maid-sama Episodes 5-8",
+   "creator": {
+    "email": "Azusa.Nakano@nyaa-nyaa.com",
+    "displayName": "Azusa.Nakano@nyaa-nyaa.com"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-14T21:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-14T23:00:00-04:00"
+   },
+   "iCalUID": "4e5v9hflcelhrru9uuua0m9450@google.com",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzOTYxODQzOTAwMDAwMA\"",
+   "id": "j2bobft2iffic0due0l10ni4pk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ajJib2JmdDJpZmZpYzBkdWUwbDEwbmk0cGsgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-04T01:00:29.000Z",
+   "updated": "2012-06-13T20:13:59.000Z",
+   "summary": "iDolm@ster Episodes 5-8",
+   "creator": {
+    "email": "Azusa.Nakano@nyaa-nyaa.com",
+    "displayName": "Azusa.Nakano@nyaa-nyaa.com"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-13T21:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-13T23:00:00-04:00"
+   },
+   "iCalUID": "j2bobft2iffic0due0l10ni4pk@google.com",
+   "sequence": 4
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTMzOTgwNjIwOTAwMDAwMA\"",
+   "id": "jg846iimo9fvp3ic163ubq5uik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=amc4NDZpaW1vOWZ2cDNpYzE2M3VicTV1aWsgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-04T01:01:24.000Z",
+   "updated": "2012-06-16T00:23:29.000Z",
+   "summary": "Clannad Episodes 9-12",
+   "creator": {
+    "email": "Azusa.Nakano@nyaa-nyaa.com",
+    "displayName": "Azusa.Nakano@nyaa-nyaa.com"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-15T21:30:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-15T23:30:00-04:00"
+   },
+   "iCalUID": "jg846iimo9fvp3ic163ubq5uik@google.com",
+   "sequence": 4
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MDE2MDE0OTAwMDAwMA\"",
+   "id": "p8krqcm5rcfr80ipgnk467grog",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cDhrcnFjbTVyY2ZyODBpcGduazQ2N2dyb2cgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-12T22:49:02.000Z",
+   "updated": "2012-06-20T02:42:29.000Z",
+   "summary": "iDolm@ster Episodes 9-12",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-20T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-20T22:00:00-04:00"
+   },
+   "iCalUID": "p8krqcm5rcfr80ipgnk467grog@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MDIzNTA0NjAwMDAwMA\"",
+   "id": "kkrdlj1p1p40lmrre67i2dg780",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=a2tyZGxqMXAxcDQwbG1ycmU2N2kyZGc3ODAgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-04T01:00:44.000Z",
+   "updated": "2012-06-20T23:30:46.000Z",
+   "summary": "Guilty Crown Episodes 1-4",
+   "creator": {
+    "email": "Azusa.Nakano@nyaa-nyaa.com",
+    "displayName": "Azusa.Nakano@nyaa-nyaa.com"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-21T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-21T22:00:00-04:00"
+   },
+   "iCalUID": "kkrdlj1p1p40lmrre67i2dg780@google.com",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MDQ5ODQwNTAwMDAwMA\"",
+   "id": "gom6954cu186uacjvbagcg1ivk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z29tNjk1NGN1MTg2dWFjanZiYWdjZzFpdmsgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-24T00:40:05.000Z",
+   "updated": "2012-06-24T00:40:05.000Z",
+   "summary": "K-On!! Episodes 11-14",
+   "creator": {
+    "email": "mio.akiyama@nyaa-nyaa.com",
+    "displayName": "Mio Akiyama"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-26T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-26T22:00:00-04:00"
+   },
+   "iCalUID": "gom6954cu186uacjvbagcg1ivk@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MDU5Njg5NjAwMDAwMA\"",
+   "id": "tqc9e5k0p3qhecgjp0620jh3eg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dHFjOWU1azBwM3FoZWNnanAwNjIwamgzZWcgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-24T00:41:35.000Z",
+   "updated": "2012-06-25T04:01:36.000Z",
+   "summary": "Toaru Majutsu no Index Episodes 1-4",
+   "creator": {
+    "email": "mio.akiyama@nyaa-nyaa.com",
+    "displayName": "Mio Akiyama"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-25T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-25T22:00:00-04:00"
+   },
+   "iCalUID": "tqc9e5k0p3qhecgjp0620jh3eg@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MDU5NzMzODAwMDAwMA\"",
+   "id": "jhnfs38oii15geulhsqbqnid3s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=amhuZnMzOG9paTE1Z2V1bGhzcWJxbmlkM3Mgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-25T04:08:55.000Z",
+   "updated": "2012-06-25T04:08:58.000Z",
+   "summary": "Clannad Episodes 17-20",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-29T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-29T22:00:00-04:00"
+   },
+   "iCalUID": "jhnfs38oii15geulhsqbqnid3s@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MDkyMDIxMDAwMDAwMA\"",
+   "id": "mgmc2bivrss28r7s50okjophvs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bWdtYzJiaXZyc3MyOHI3czUwb2tqb3BodnMgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-06-25T04:04:54.000Z",
+   "updated": "2012-06-28T21:50:10.000Z",
+   "summary": "Guilty Crown Episodes 5-8",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-06-28T20:30:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-06-28T22:30:00-04:00"
+   },
+   "iCalUID": "mgmc2bivrss28r7s50okjophvs@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MTI3NDM5OTAwMDAwMA\"",
+   "id": "i425r9fi92vo41ibshjhblfdc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aTQyNXI5Zmk5MnZvNDFpYnNoamhibGZkYzQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-07-03T00:12:22.000Z",
+   "updated": "2012-07-03T00:13:19.000Z",
+   "summary": "K-On!! Episodes 15-19",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-07-03T19:00:00-05:00",
+    "timeZone": "America/Chicago"
+   },
+   "end": {
+    "dateTime": "2012-07-03T21:00:00-05:00",
+    "timeZone": "America/Chicago"
+   },
+   "transparency": "transparent",
+   "iCalUID": "i425r9fi92vo41ibshjhblfdc4@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MTI3NDQ1NDAwMDAwMA\"",
+   "id": "segq8id4lttjs3gsvskrad9q5o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=c2VncThpZDRsdHRqczNnc3Zza3JhZDlxNW8gb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-07-03T00:14:11.000Z",
+   "updated": "2012-07-03T00:14:14.000Z",
+   "summary": "Guilty Crown Episodes 9-12",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-07-05T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-07-05T22:00:00-04:00"
+   },
+   "iCalUID": "segq8id4lttjs3gsvskrad9q5o@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MTI3OTI0OTAwMDAwMA\"",
+   "id": "mnau1n46lalk1dk2nfis6hseto",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bW5hdTFuNDZsYWxrMWRrMm5maXM2aHNldG8gb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-07-03T01:34:06.000Z",
+   "updated": "2012-07-03T01:34:09.000Z",
+   "summary": "Clannad Episodes 17-20",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-07-06T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-07-06T22:00:00-04:00"
+   },
+   "iCalUID": "mnau1n46lalk1dk2nfis6hseto@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MTc5MTc0ODAwMDAwMA\"",
+   "id": "pj97rc85iojcihikqjo6iiin04",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cGo5N3JjODVpb2pjaWhpa3FqbzZpaWluMDQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-07-08T23:54:28.000Z",
+   "updated": "2012-07-08T23:55:48.000Z",
+   "summary": "K-On!! Episodes 20-23",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-07-10T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-07-10T23:00:00-04:00"
+   },
+   "transparency": "transparent",
+   "iCalUID": "pj97rc85iojcihikqjo6iiin04@google.com",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MTkwMDg4MTAwMDAwMA\"",
+   "id": "uk677bqjdi9or74qhrbp74454k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dWs2NzdicWpkaTlvcjc0cWhyYnA3NDQ1NGsgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-07-08T23:30:38.000Z",
+   "updated": "2012-07-10T06:14:41.000Z",
+   "summary": "Eureka Seven ULTRA-MEGA-WTFISGOINGONHERE??? stream",
+   "description": "Eureka Seven Episodes 1-50, and Eureka Seven: AO Episodes 1-12\n\nHopefully subs for episode 13 will be out by the end of the stream, if not we will wait and livestream it as well.",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-07-12T00:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-07-13T01:00:00-04:00"
+   },
+   "transparency": "transparent",
+   "iCalUID": "uk677bqjdi9or74qhrbp74454k@google.com",
+   "sequence": 4
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MjIyODMxMjAwMDAwMA\"",
+   "id": "3o3uqnq6mrer68vkvdhkuj2sgc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M28zdXFucTZtcmVyNjh2a3ZkaGt1ajJzZ2Mgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-07-14T01:07:26.000Z",
+   "updated": "2012-07-14T01:11:52.000Z",
+   "summary": "K-On Episodes 24-27",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-07-17T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-07-17T22:30:00-04:00"
+   },
+   "iCalUID": "3o3uqnq6mrer68vkvdhkuj2sgc@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MjIyODMxNTAwMDAwMA\"",
+   "id": "v61i9onheaenfb81rrq7nnkdoc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=djYxaTlvbmhlYWVuZmI4MXJycTdubmtkb2Mgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-07-14T01:05:31.000Z",
+   "updated": "2012-07-14T01:11:55.000Z",
+   "summary": "Guilty Crown Episodes 13-16",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-07-19T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-07-19T22:30:00-04:00"
+   },
+   "iCalUID": "v61i9onheaenfb81rrq7nnkdoc@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MjIyODMxNzAwMDAwMA\"",
+   "id": "08mjc21pn2o45o8d21nee7s91k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDhtamMyMXBuMm80NW84ZDIxbmVlN3M5MWsgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-07-14T01:04:22.000Z",
+   "updated": "2012-07-14T01:11:57.000Z",
+   "summary": "Clannad Episodes 21-24",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-07-20T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-07-20T22:30:00-04:00"
+   },
+   "iCalUID": "08mjc21pn2o45o8d21nee7s91k@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MzE1NzI4MjAwMDAwMA\"",
+   "id": "7pbd08bqvecauh796918gg63j4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3BiZDA4YnF2ZWNhdWg3OTY5MThnZzYzajQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-07-24T19:14:42.000Z",
+   "updated": "2012-07-24T19:14:42.000Z",
+   "summary": "K-On! Movie ",
+   "creator": {
+    "email": "mio.akiyama@nyaa-nyaa.com",
+    "displayName": "Mio Akiyama"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-07-24T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-07-24T22:00:00-04:00"
+   },
+   "iCalUID": "7pbd08bqvecauh796918gg63j4@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MzMyMjc3NzAwMDAwMA\"",
+   "id": "0hmti7gn06kfe012fidu10sp5o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MGhtdGk3Z24wNmtmZTAxMmZpZHUxMHNwNW8gb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-07-26T17:12:54.000Z",
+   "updated": "2012-07-26T17:12:57.000Z",
+   "summary": "Guilty Crown episodes 17-20",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-07-26T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-07-26T22:00:00-04:00"
+   },
+   "iCalUID": "0hmti7gn06kfe012fidu10sp5o@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MzMyMjgwNzAwMDAwMA\"",
+   "id": "4q99110lk07rooli3pe78p4lss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NHE5OTExMGxrMDdyb29saTNwZTc4cDRsc3Mgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-07-26T17:13:25.000Z",
+   "updated": "2012-07-26T17:13:27.000Z",
+   "summary": "Clannad: After Story episodes 1-4",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-07-27T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-07-27T22:00:00-04:00"
+   },
+   "iCalUID": "4q99110lk07rooli3pe78p4lss@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MzMyMjkzNjAwMDAwMA\"",
+   "id": "jo354ar6jahnud7aa4h58tqdls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=am8zNTRhcjZqYWhudWQ3YWE0aDU4dHFkbHMgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-07-26T17:13:51.000Z",
+   "updated": "2012-07-26T17:15:36.000Z",
+   "summary": "Eureka Seven AO episode 15",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-07-26T23:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-07-27T02:00:00-04:00"
+   },
+   "iCalUID": "jo354ar6jahnud7aa4h58tqdls@google.com",
+   "sequence": 4
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0Mzc3NjQzOTAwMDAwMA\"",
+   "id": "lk5atudcusfgt90g5pfmlgqhsc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bGs1YXR1ZGN1c2ZndDkwZzVwZm1sZ3Foc2Mgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-07-31T23:06:14.000Z",
+   "updated": "2012-07-31T23:13:59.000Z",
+   "summary": "K-On \"Come With Me\" Concert",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-07-31T21:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-01T00:00:00-04:00"
+   },
+   "iCalUID": "lk5atudcusfgt90g5pfmlgqhsc@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MzkyMDM0NDAwMDAwMA\"",
+   "id": "hl97gop09s51ltrj3a2qdtfsn4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aGw5N2dvcDA5czUxbHRyajNhMnFkdGZzbjQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-08-02T15:11:48.000Z",
+   "updated": "2012-08-02T15:12:24.000Z",
+   "summary": "Clannad After Story episodes 5-8",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-08-03T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-03T22:00:00-04:00"
+   },
+   "iCalUID": "hl97gop09s51ltrj3a2qdtfsn4@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0MzkyMDU1MjAwMDAwMA\"",
+   "id": "nl3llm7aaob1e6hvlc07ivgoi4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bmwzbGxtN2Fhb2IxZTZodmxjMDdpdmdvaTQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-08-02T15:14:20.000Z",
+   "updated": "2012-08-02T15:15:52.000Z",
+   "summary": "K-On Marathon!!",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-08-04T09:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-05T15:00:00-04:00"
+   },
+   "iCalUID": "nl3llm7aaob1e6hvlc07ivgoi4@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0Mzk0NjU2MzAwMDAwMA\"",
+   "id": "g0cddn2a2ig5sjqhtl54ftakho",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZzBjZGRuMmEyaWc1c2pxaHRsNTRmdGFraG8gb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-08-02T15:11:23.000Z",
+   "updated": "2012-08-02T22:29:23.000Z",
+   "summary": "Guilty Crown episodes 17-22",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-08-02T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-02T22:00:00-04:00"
+   },
+   "iCalUID": "g0cddn2a2ig5sjqhtl54ftakho@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0NDM1MDc1MDAwMDAwMA\"",
+   "id": "13dkvhinkh259943pn1vm1c8cc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MTNka3ZoaW5raDI1OTk0M3BuMXZtMWM4Y2Mgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-08-06T20:25:38.000Z",
+   "updated": "2012-08-07T14:45:50.000Z",
+   "summary": "K-On! Episodes 1-4",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-08-07T17:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-07T19:00:00-04:00"
+   },
+   "iCalUID": "13dkvhinkh259943pn1vm1c8cc@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0NDM1MDc1OTAwMDAwMA\"",
+   "id": "jsobnkmf95aukq2t9468e9qs7s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=anNvYm5rbWY5NWF1a3EydDk0NjhlOXFzN3Mgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-08-06T20:26:19.000Z",
+   "updated": "2012-08-07T14:45:59.000Z",
+   "summary": "Code Geass Episodes 1-4",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-08-09T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-09T22:00:00-04:00"
+   },
+   "iCalUID": "jsobnkmf95aukq2t9468e9qs7s@google.com",
+   "sequence": 5
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0NDM1MDc3NDAwMDAwMA\"",
+   "id": "1hoe0lo4b6i8q1vvt9s5a3hvug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWhvZTBsbzRiNmk4cTF2dnQ5czVhM2h2dWcgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-08-06T20:27:04.000Z",
+   "updated": "2012-08-07T14:46:14.000Z",
+   "summary": "Clannad After Story Episodes 9-12",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-08-10T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-10T22:00:00-04:00"
+   },
+   "iCalUID": "1hoe0lo4b6i8q1vvt9s5a3hvug@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0NDM4NDAzMTAwMDAwMA\"",
+   "id": "6qh72i9jhvdder2vqjshlbmv4c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnFoNzJpOWpodmRkZXIydnFqc2hsYm12NGMgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-08-07T23:59:50.000Z",
+   "updated": "2012-08-08T00:00:31.000Z",
+   "summary": "Revolutionary Girl Utena Deep/a/thon",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-08-11T14:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-12T08:00:00-04:00"
+   },
+   "iCalUID": "6qh72i9jhvdder2vqjshlbmv4c@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0NDkxMDczNDAwMDAwMA\"",
+   "id": "71kl6ht7f1l1cfd7de5u601934",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzFrbDZodDdmMWwxY2ZkN2RlNXU2MDE5MzQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-08-14T02:18:54.000Z",
+   "updated": "2012-08-14T02:18:54.000Z",
+   "summary": "K-On! episodes 5-8",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-08-14T17:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-14T19:00:00-04:00"
+   },
+   "iCalUID": "71kl6ht7f1l1cfd7de5u601934@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0NDkxMDg3MzAwMDAwMA\"",
+   "id": "j0lugbhql1gav4gbnc6rcjr5rc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ajBsdWdiaHFsMWdhdjRnYm5jNnJjanI1cmMgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-08-14T02:20:58.000Z",
+   "updated": "2012-08-14T02:21:13.000Z",
+   "summary": "Code Geass episodes 5-8",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-08-16T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-16T22:00:00-04:00"
+   },
+   "iCalUID": "j0lugbhql1gav4gbnc6rcjr5rc@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0NTI0MzEwMDAwMDAwMA\"",
+   "id": "hvi60il807vqajr2kci1oapco0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aHZpNjBpbDgwN3ZxYWpyMmtjaTFvYXBjbzAgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-08-14T02:22:05.000Z",
+   "updated": "2012-08-17T22:38:20.000Z",
+   "summary": "Clannad After Story PUSHED BACK TO NEXT WEEK DUE TO IRL PROBLEMS",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-08-17T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-17T22:00:00-04:00"
+   },
+   "iCalUID": "hvi60il807vqajr2kci1oapco0@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0NTI1MDgxOTAwMDAwMA\"",
+   "id": "8onjkoth05jjko7qndptbphcd8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OG9uamtvdGgwNWpqa283cW5kcHRicGhjZDggb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-08-14T02:22:40.000Z",
+   "updated": "2012-08-18T00:46:59.000Z",
+   "summary": "Deepathon: Paranoia Agent",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-08-18T13:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-19T01:00:00-04:00"
+   },
+   "transparency": "transparent",
+   "iCalUID": "8onjkoth05jjko7qndptbphcd8@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0NTQ5MTYyMTAwMDAwMA\"",
+   "id": "68esd9v9b75u0mbn0l0s77mv40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Njhlc2Q5djliNzV1MG1ibjBsMHM3N212NDAgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-08-20T19:39:51.000Z",
+   "updated": "2012-08-20T19:40:21.000Z",
+   "summary": "K-On! Episodes 9-12",
+   "creator": {
+    "email": "mio.akiyama@nyaa-nyaa.com",
+    "displayName": "Mio Akiyama"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-08-21T17:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-21T20:00:00-04:00"
+   },
+   "iCalUID": "68esd9v9b75u0mbn0l0s77mv40@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0NTQ5MTc3NzAwMDAwMA\"",
+   "id": "0do1cp4mfokt60n85ngc4stqfc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MGRvMWNwNG1mb2t0NjBuODVuZ2M0c3RxZmMgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-08-20T19:41:02.000Z",
+   "updated": "2012-08-20T19:42:57.000Z",
+   "summary": "Code Geass Episodes 9-12",
+   "creator": {
+    "email": "mio.akiyama@nyaa-nyaa.com",
+    "displayName": "Mio Akiyama"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-08-23T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-23T23:00:00-04:00"
+   },
+   "iCalUID": "0do1cp4mfokt60n85ngc4stqfc@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0NTkzMTM4NjAwMDAwMA\"",
+   "id": "6kpi2pgt7esj65ljemjrcg8v10",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmtwaTJwZ3Q3ZXNqNjVsamVtanJjZzh2MTAgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-08-20T19:43:57.000Z",
+   "updated": "2012-08-25T21:49:46.000Z",
+   "summary": "Clannad After Story: CANCELED",
+   "creator": {
+    "email": "mio.akiyama@nyaa-nyaa.com",
+    "displayName": "Mio Akiyama"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-08-25T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-08-26T06:00:00-04:00"
+   },
+   "iCalUID": "6kpi2pgt7esj65ljemjrcg8v10@google.com",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0OTI3OTY4NDAwMDAwMA\"",
+   "id": "_71142gi66spj0b9k84o48b9k88s42b9o8csj6b9i850jighp64ojada36o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzcxMTQyZ2k2NnNwajBiOWs4NG80OGI5azg4czQyYjlvOGNzajZiOWk4NTBqaWdocDY0b2phZGEzNm8gb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-10-03T15:54:14.000Z",
+   "updated": "2012-10-03T15:54:44.000Z",
+   "summary": "K-On! Movie (映画けいおん!) ",
+   "creator": {
+    "email": "pak5695gv@gmail.com",
+    "displayName": "Pavel Kiryanov"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-10-09T19:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-10-09T21:00:00-04:00"
+   },
+   "iCalUID": "8BABF730-4A0D-4B8A-8C93-2AA9B91155C6",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0OTI3OTkwMzAwMDAwMA\"",
+   "id": "_68o30gq56913iba388s46b9k611j2ba265348b9m60oj6h266d33ac1h8k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzY4bzMwZ3E1NjkxM2liYTM4OHM0NmI5azYxMWoyYmEyNjUzNDhiOW02MG9qNmgyNjZkMzNhYzFoOGsgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-10-03T15:58:07.000Z",
+   "updated": "2012-10-03T15:58:23.000Z",
+   "summary": "Nichijou （日常）Episodes 21-24",
+   "creator": {
+    "email": "pak5695gv@gmail.com",
+    "displayName": "Pavel Kiryanov"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-10-17T18:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-10-17T20:00:00-04:00"
+   },
+   "iCalUID": "200CE2B9-CB8C-40C1-B1FD-6013DF3F501E",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0OTI5Mzg3MDAwMDAwMA\"",
+   "id": "tvo7uufombi14uljqf4ld33990",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dHZvN3V1Zm9tYmkxNHVsanFmNGxkMzM5OTAgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-09-03T18:09:48.000Z",
+   "updated": "2012-10-03T19:51:10.000Z",
+   "summary": "Nichijou （日常）Episodes 13-16",
+   "creator": {
+    "email": "mio.akiyama@nyaa-nyaa.com",
+    "displayName": "Mio Akiyama"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-10-03T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-10-03T22:00:00-04:00"
+   },
+   "iCalUID": "tvo7uufombi14uljqf4ld33990@google.com",
+   "sequence": 7
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM0OTkwNTIzODAwMDAwMA\"",
+   "id": "_84qk6cpm8ooj0ba36gp3ib9k8cojab9o8d2jab9m8d1kacpk74sk2e9o8o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Xzg0cWs2Y3BtOG9vajBiYTM2Z3AzaWI5azhjb2phYjlvOGQyamFiOW04ZDFrYWNwazc0c2syZTlvOG8gb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-10-03T15:53:22.000Z",
+   "updated": "2012-10-10T21:40:38.000Z",
+   "summary": "Nichijou （日常）Episodes 17-20",
+   "creator": {
+    "email": "pak5695gv@gmail.com",
+    "displayName": "Pavel Kiryanov"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-10-10T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-10-10T22:00:00-04:00"
+   },
+   "iCalUID": "A5C36F10-C429-4C15-8CE5-6CCE3499A98F",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MDAwODIyMjAwMDAwMA\"",
+   "id": "_64p48ci36kpk2b9h70o32b9k6h33aba175346ba288pjih9j751k4e9g68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzY0cDQ4Y2kzNmtwazJiOWg3MG8zMmI5azZoMzNhYmExNzUzNDZiYTI4OHBqaWg5ajc1MWs0ZTlnNjggb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-10-03T15:57:51.000Z",
+   "updated": "2012-10-12T02:17:02.000Z",
+   "summary": "K-On! Live Preformances",
+   "creator": {
+    "email": "pak5695gv@gmail.com",
+    "displayName": "Pavel Kiryanov"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-10-16T18:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-10-16T23:00:00-04:00"
+   },
+   "iCalUID": "12D2C53A-1801-44F5-A9FC-BB39E39CB902",
+   "sequence": 11
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MDAwOTAwNjAwMDAwMA\"",
+   "id": "_6ko34c2185334b9o6d2j2b9k84sjcba26ss30b9p6oo48gq5650k6hho64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZrbzM0YzIxODUzMzRiOW82ZDJqMmI5azg0c2pjYmEyNnNzMzBiOXA2b280OGdxNTY1MGs2aGhvNjQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-10-12T02:25:31.000Z",
+   "updated": "2012-10-12T02:30:06.000Z",
+   "summary": "Spice and Wolf (狼と香辛料) Episodes 1-4",
+   "creator": {
+    "email": "pak5695gv@gmail.com",
+    "displayName": "Pavel Kiryanov"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-10-12T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-10-12T22:00:00-04:00"
+   },
+   "iCalUID": "5020AAF2-83E1-4A96-B780-960DCE1ACF81",
+   "sequence": 8
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MTAzMjA5MzAwMDAwMA\"",
+   "id": "7517p8bkro1g6tes9tfecb1jvg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzUxN3A4YmtybzFnNnRlczl0ZmVjYjFqdmcgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-09-03T18:08:04.000Z",
+   "updated": "2012-10-23T22:41:33.000Z",
+   "summary": "K-On! (けいおん!) Episodes 1-4",
+   "creator": {
+    "email": "mio.akiyama@nyaa-nyaa.com",
+    "displayName": "Mio Akiyama"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-10-23T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-10-23T22:00:00-04:00"
+   },
+   "iCalUID": "7517p8bkro1g6tes9tfecb1jvg@google.com",
+   "sequence": 11
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MTI5MDQ4MTAwMDAwMA\"",
+   "id": "_74q36h9i6t142ba4752jeb9k6514cb9o6or4ab9m88sk4hhg6ko46d1i84",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Xzc0cTM2aDlpNnQxNDJiYTQ3NTJqZWI5azY1MTRjYjlvNm9yNGFiOW04OHNrNGhoZzZrbzQ2ZDFpODQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-10-15T14:16:55.000Z",
+   "updated": "2012-10-26T22:28:01.000Z",
+   "summary": "Spice and Wolf (狼と香辛料) Episodes 9-13",
+   "creator": {
+    "email": "pak5695gv@gmail.com",
+    "displayName": "Pavel Kiryanov"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-10-26T20:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2012-10-26T22:00:00-04:00"
+   },
+   "iCalUID": "943E27BA-D9E7-41BF-866E-6B9BF050C42A",
+   "sequence": 5
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MTg5NjE0NDAwMDAwMA\"",
+   "id": "uisb0bb6441rp3om098l1nqb44",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dWlzYjBiYjY0NDFycDNvbTA5OGwxbnFiNDQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-11-02T22:05:37.000Z",
+   "updated": "2012-11-02T22:42:24.000Z",
+   "summary": "Nichibros Episodes 1-4",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-11-07T20:00:00-05:00"
+   },
+   "end": {
+    "dateTime": "2012-11-07T21:00:00-05:00"
+   },
+   "iCalUID": "uisb0bb6441rp3om098l1nqb44@google.com",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MTg5NjE1OTAwMDAwMA\"",
+   "id": "d99gmrb38ok1n78udid8jqusak",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZDk5Z21yYjM4b2sxbjc4dWRpZDhqcXVzYWsgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-11-02T22:04:58.000Z",
+   "updated": "2012-11-02T22:42:39.000Z",
+   "summary": "K-On! Episodes 9-12",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-11-06T20:00:00-05:00"
+   },
+   "end": {
+    "dateTime": "2012-11-06T21:00:00-05:00"
+   },
+   "iCalUID": "d99gmrb38ok1n78udid8jqusak@google.com",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MTkwMDY5MjAwMDAwMA\"",
+   "id": "khiuh8pi4nd9dgc4d3njn71blc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=a2hpdWg4cGk0bmQ5ZGdjNGQzbmpuNzFibGMgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-11-02T22:02:19.000Z",
+   "updated": "2012-11-02T23:58:12.000Z",
+   "summary": "Not canceled by Hurricane Sandy (Spice & Wolf S2 - Episodes 1-4)",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-11-02T20:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2012-11-02T21:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "khiuh8pi4nd9dgc4d3njn71blc@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MTkwMDcxMjAwMDAwMA\"",
+   "id": "93159fv34gih1kc7lv73qv0cig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OTMxNTlmdjM0Z2loMWtjN2x2NzNxdjBjaWcgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-11-02T22:07:45.000Z",
+   "updated": "2012-11-02T23:58:32.000Z",
+   "summary": "Spice & Wolf S2 - Episodes 5-8",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-11-09T20:00:00-05:00"
+   },
+   "end": {
+    "dateTime": "2012-11-09T23:00:00-05:00"
+   },
+   "iCalUID": "93159fv34gih1kc7lv73qv0cig@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MjM0NjQwNDAwMDAwMA\"",
+   "id": "v9fsrr86tp5f4t4rhp82cbb64g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=djlmc3JyODZ0cDVmNHQ0cmhwODJjYmI2NGcgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-11-02T22:16:09.000Z",
+   "updated": "2012-11-08T03:46:44.000Z",
+   "summary": "Nichibros Episodes 5-8",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-11-14T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2012-11-14T21:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "v9fsrr86tp5f4t4rhp82cbb64g@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MjM0NjU2NTAwMDAwMA\"",
+   "id": "pk963iepd6toao1q44jvso9bf8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cGs5NjNpZXBkNnRvYW8xcTQ0anZzbzliZjggb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-11-08T03:48:22.000Z",
+   "updated": "2012-11-08T03:49:25.000Z",
+   "summary": "K-On! Episode 13 + OVA; K-On!! Episodes 1 + 2",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-11-13T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2012-11-13T21:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "iCalUID": "pk963iepd6toao1q44jvso9bf8@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MjM0NzEzMDAxMjAwMA\"",
+   "id": "99jrbsjpkq28qmaj6ag1firb1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OTlqcmJzanBrcTI4cW1hajZhZzFmaXJiMW8gb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-11-08T03:58:13.000Z",
+   "updated": "2012-11-08T03:58:50.012Z",
+   "summary": "K-On!! Episodes 3-6",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-11-20T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2012-11-20T23:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "99jrbsjpkq28qmaj6ag1firb1o@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MzQ1ODI5ODU1MzAwMA\"",
+   "id": "c7d0sm48lffc0d71ei32f3haf4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzdkMHNtNDhsZmZjMGQ3MWVpMzJmM2hhZjQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-11-21T00:37:36.000Z",
+   "updated": "2012-11-21T00:38:18.553Z",
+   "summary": "K-On!! Episodes 7-10",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-11-27T20:00:00-05:00"
+   },
+   "end": {
+    "dateTime": "2012-11-27T21:00:00-05:00"
+   },
+   "transparency": "transparent",
+   "iCalUID": "c7d0sm48lffc0d71ei32f3haf4@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MzY5ODM2MzgyMzAwMA\"",
+   "id": "pf8q6a9qh8gm7v66dcr7givgh4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cGY4cTZhOXFoOGdtN3Y2NmRjcjdnaXZnaDQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-11-14T01:17:52.000Z",
+   "updated": "2012-11-23T19:19:23.823Z",
+   "summary": "Eureka Seven: MEGA-THON",
+   "description": "Doing our biggest, non-stop, livestream EVER (over 32 HOURS long) here on nyaa-nyaa.",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-11-24T00:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2012-11-25T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "pf8q6a9qh8gm7v66dcr7givgh4@google.com",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MzY5ODg4NTM3MTAwMA\"",
+   "id": "bs43m60tvod64srp6cjjfd1os8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YnM0M202MHR2b2Q2NHNycDZjampmZDFvczggb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-11-08T03:59:22.000Z",
+   "updated": "2012-11-23T19:28:05.371Z",
+   "summary": "Nichibros Episodes 9-12",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-11-28T20:00:00-05:00"
+   },
+   "end": {
+    "dateTime": "2012-11-28T21:00:00-05:00"
+   },
+   "iCalUID": "bs43m60tvod64srp6cjjfd1os8@google.com",
+   "sequence": 4
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1MzcwOTkwNjgwNTAwMA\"",
+   "id": "tui3kl9j09mb415g7ri2ggq88k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dHVpM2tsOWowOW1iNDE1ZzdyaTJnZ3E4OGsgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-11-02T22:16:53.000Z",
+   "updated": "2012-11-23T22:31:46.805Z",
+   "summary": "Spice & Wolf S2 - Episodes 9-12",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-11-30T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2012-11-30T21:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "tui3kl9j09mb415g7ri2ggq88k@google.com",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1Mzk0ODc3MTMzNjAwMA\"",
+   "id": "ush66ahn32clln3414flntb248",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dXNoNjZhaG4zMmNsbG4zNDE0ZmxudGIyNDggb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-11-23T19:32:00.000Z",
+   "updated": "2012-11-26T16:52:51.336Z",
+   "summary": "Yui Hirasawa's Birthday",
+   "description": "\u003cimg src=\"http://i.imgur.com/DFaXN.jpg\" alt=\"\"\u003e",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "date": "2012-11-27"
+   },
+   "end": {
+    "date": "2012-11-28"
+   },
+   "iCalUID": "ush66ahn32clln3414flntb248@google.com",
+   "sequence": 5
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1NTUwNTM2NjkxNTAwMA\"",
+   "id": "46f1ks49u44jul56788eamh724",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NDZmMWtzNDl1NDRqdWw1Njc4OGVhbWg3MjQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-12-14T17:13:48.000Z",
+   "updated": "2012-12-14T17:16:06.915Z",
+   "summary": "K-On!! Episodes 11-14",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-12-04T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2012-12-04T21:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "iCalUID": "46f1ks49u44jul56788eamh724@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1NTUwNTQxODI3MjAwMA\"",
+   "id": "ml8ngsen84rjeem9gadrjm33ig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bWw4bmdzZW44NHJqZWVtOWdhZHJqbTMzaWcgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-12-14T17:14:13.000Z",
+   "updated": "2012-12-14T17:16:58.272Z",
+   "summary": "K-On!! Episodes 15-18",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-12-11T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2012-12-11T21:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "iCalUID": "ml8ngsen84rjeem9gadrjm33ig@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1NTU0NDA3NzA1MDAwMA\"",
+   "id": "co6rdm47r9qdkd7nc7i2nhii4k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y282cmRtNDdyOXFka2Q3bmM3aTJuaGlpNGsgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-12-14T17:14:25.000Z",
+   "updated": "2012-12-15T04:01:17.050Z",
+   "summary": "K-On!! Episodes 19-23",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-12-18T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2012-12-18T21:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "iCalUID": "co6rdm47r9qdkd7nc7i2nhii4k@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1NTU0NDA4NzI4NjAwMA\"",
+   "id": "1e3qpemrt8hp71v71dqfa21n9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWUzcXBlbXJ0OGhwNzF2NzFkcWZhMjFuOXMgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-12-14T17:15:21.000Z",
+   "updated": "2012-12-15T04:01:27.286Z",
+   "summary": "K-On!! Episodes 24-26 + OVA",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-12-25T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2012-12-25T21:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1e3qpemrt8hp71v71dqfa21n9s@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1NTU0NzI1NDM4NDAwMA\"",
+   "id": "tc8n164ma7e0d9foddmhq920o0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dGM4bjE2NG1hN2UwZDlmb2RkbWhxOTIwbzAgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-12-15T04:53:49.000Z",
+   "updated": "2012-12-15T04:54:14.384Z",
+   "summary": "K-On Movie",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2013-01-01T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2013-01-01T21:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "iCalUID": "tc8n164ma7e0d9foddmhq920o0@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1NTY4NzE0ODAwMDAwMA\"",
+   "id": "qfi734lpbna3r38r6jtiaucu88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cWZpNzM0bHBibmEzcjM4cjZqdGlhdWN1ODggb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-12-16T19:43:59.000Z",
+   "updated": "2012-12-16T19:45:48.000Z",
+   "summary": "Haruhi Suzumiya Marathon!!",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-12-16T13:30:00-06:00",
+    "timeZone": "America/Chicago"
+   },
+   "end": {
+    "dateTime": "2012-12-16T14:30:00-06:00",
+    "timeZone": "America/Chicago"
+   },
+   "transparency": "transparent",
+   "iCalUID": "qfi734lpbna3r38r6jtiaucu88@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1NTY5ODQ2MzU5MTAwMA\"",
+   "id": "f1k4nvpds31rcaug5dqquof068",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZjFrNG52cGRzMzFyY2F1ZzVkcXF1b2YwNjggb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-12-16T22:48:31.000Z",
+   "updated": "2012-12-16T22:54:23.591Z",
+   "summary": "24-hour End of Evangelion Marathon",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-12-21T00:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2012-12-22T00:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "iCalUID": "f1k4nvpds31rcaug5dqquof068@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1NjkwNTgxMzQ3MTAwMA\"",
+   "id": "8pn53p3kg7sg6l3p3fln51p538",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OHBuNTNwM2tnN3NnNmwzcDNmbG41MXA1Mzggb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2012-12-30T22:16:53.000Z",
+   "updated": "2012-12-30T22:16:53.471Z",
+   "summary": "Library Wars",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2012-12-30T20:00:00-05:00"
+   },
+   "end": {
+    "dateTime": "2012-12-31T01:00:00-05:00"
+   },
+   "iCalUID": "8pn53p3kg7sg6l3p3fln51p538@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1NzY5NDI4MjE3MTAwMA\"",
+   "id": "vmsfbnt0hn8tgvp83ekrijqopg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dm1zZmJudDBobjh0Z3ZwODNla3JpanFvcGcgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2013-01-04T21:21:56.000Z",
+   "updated": "2013-01-09T01:18:02.171Z",
+   "summary": "K-On! Episodes 1-4",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2013-01-15T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2013-01-15T22:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "vmsfbnt0hn8tgvp83ekrijqopg@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1Nzk0MDk1NTIwMDAwMA\"",
+   "id": "dvfmf9ds8d383kd36jka2a9drc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZHZmbWY5ZHM4ZDM4M2tkMzZqa2EyYTlkcmMgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2013-01-11T21:49:15.000Z",
+   "updated": "2013-01-11T21:49:15.200Z",
+   "summary": "Eva-Fest",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2013-01-11T23:59:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2013-01-12T00:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "dvfmf9ds8d383kd36jka2a9drc@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1ODg5ODk2MzIwNjAwMA\"",
+   "id": "p8vm7ucpj68i1kni8eoaavfto4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cDh2bTd1Y3BqNjhpMWtuaThlb2FhdmZ0bzQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2013-01-22T23:54:05.000Z",
+   "updated": "2013-01-22T23:56:03.206Z",
+   "summary": "K-On! Episodes 5-8",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2013-01-22T20:00:00-05:00"
+   },
+   "end": {
+    "dateTime": "2013-01-22T22:00:00-05:00"
+   },
+   "transparency": "transparent",
+   "iCalUID": "p8vm7ucpj68i1kni8eoaavfto4@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1OTUwNTAyOTQ1NzAwMA\"",
+   "id": "od5ns4bnvllqgpkhcgerid7kqc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=b2Q1bnM0Ym52bGxxZ3BraGNnZXJpZDdrcWMgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2013-01-22T23:57:07.000Z",
+   "updated": "2013-01-30T00:17:09.457Z",
+   "summary": "K-On! Episodes 9-12",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2013-01-29T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2013-01-29T22:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "iCalUID": "od5ns4bnvllqgpkhcgerid7kqc@google.com",
+   "sequence": 5
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1OTc2NDI2MDQ2NTAwMA\"",
+   "id": "nl8ofudloeesd804he4itqb4qs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bmw4b2Z1ZGxvZWVzZDgwNGhlNGl0cWI0cXMgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2013-02-02T00:13:10.000Z",
+   "updated": "2013-02-02T00:17:40.465Z",
+   "summary": "K-On! Episodes 13(Extra) + OVA and K-On!! Episodes 1 + 2",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2013-02-05T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2013-02-05T22:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "iCalUID": "nl8ofudloeesd804he4itqb4qs@google.com",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM1OTc2NDI4MDQ5MTAwMA\"",
+   "id": "p7vt0a5bcb7efatti216rf5er4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cDd2dDBhNWJjYjdlZmF0dGkyMTZyZjVlcjQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2013-02-02T00:15:48.000Z",
+   "updated": "2013-02-02T00:18:00.491Z",
+   "summary": "K-On!! Episodes 3-6",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2013-02-12T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2013-02-12T22:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "iCalUID": "p7vt0a5bcb7efatti216rf5er4@google.com",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM2MTg5NDMyNTkzMjAwMA\"",
+   "id": "2alt24mt2toc9g1l65tne14thk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MmFsdDI0bXQydG9jOWcxbDY1dG5lMTR0aGsgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2013-02-26T15:58:42.000Z",
+   "updated": "2013-02-26T15:58:45.932Z",
+   "summary": "K-On!! Episodes 7-10",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2013-02-26T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2013-02-26T23:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "2alt24mt2toc9g1l65tne14thk@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM2MTg5NDM4NzEyMzAwMA\"",
+   "id": "67n2o5bbtb63t7gl27errdqgck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjduMm81YmJ0YjYzdDdnbDI3ZXJyZHFnY2sgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2013-02-26T15:59:47.000Z",
+   "updated": "2013-02-26T15:59:47.123Z",
+   "summary": "K-On!! Episode 11 - 14",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2013-03-05T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2013-03-05T21:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "67n2o5bbtb63t7gl27errdqgck@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM2MjUyNTQ4Njc2MjAwMA\"",
+   "id": "dj2s4p58srt888obn33cieh4sc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZGoyczRwNThzcnQ4ODhvYm4zM2NpZWg0c2Mgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2013-03-05T23:17:15.000Z",
+   "updated": "2013-03-05T23:18:06.762Z",
+   "summary": "K-On!! Episodes 15-18",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2013-03-12T20:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2013-03-12T21:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "iCalUID": "dj2s4p58srt888obn33cieh4sc@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM2NDE3MDU3NTkwNTAwMA\"",
+   "id": "6rj9bpo1q8d5k2mjukulslup8c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnJqOWJwbzFxOGQ1azJtanVrdWxzbHVwOGMgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2013-03-19T23:14:18.000Z",
+   "updated": "2013-03-25T00:16:15.905Z",
+   "summary": "K-On! Movie",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2013-04-09T20:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2013-04-09T21:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6rj9bpo1q8d5k2mjukulslup8c@google.com",
+   "sequence": 5
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM2NDE3MDYxMTk3MjAwMA\"",
+   "id": "naeas6s26oifq1dld5810a8pk4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bmFlYXM2czI2b2lmcTFkbGQ1ODEwYThwazQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2013-03-19T23:12:41.000Z",
+   "updated": "2013-03-25T00:16:51.972Z",
+   "summary": "K-On!! Episodes 23 - 25 + OVA",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2013-04-02T20:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2013-04-02T21:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "iCalUID": "naeas6s26oifq1dld5810a8pk4@google.com",
+   "sequence": 5
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM2NDE3MDYxNTg0OTAwMA\"",
+   "id": "teqj1mg6e8h6fuh19mbfg1p1a4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dGVxajFtZzZlOGg2ZnVoMTltYmZnMXAxYTQgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2013-03-19T23:11:08.000Z",
+   "updated": "2013-03-25T00:16:55.849Z",
+   "summary": "K-On!! Episodes 19-22",
+   "creator": {
+    "email": "Tenshiro@nyaa-nyaa.com",
+    "displayName": "Tenshiro Hirasawa"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2013-03-26T20:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2013-03-26T21:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "iCalUID": "teqj1mg6e8h6fuh19mbfg1p1a4@google.com",
+   "sequence": 4
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"g03WUv5-dII4fsnOIFSSxqKBsYQ/MTM2NzAxMTMyMTEwMjAwMA\"",
+   "id": "0ghr6cr364h172e2u7r3222920",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MGdocjZjcjM2NGgxNzJlMnU3cjMyMjI5MjAgb3BjcWE1MGVnM2NsZ2NsMDBuMmw5cmFsMWtAZw",
+   "created": "2013-04-26T21:21:32.000Z",
+   "updated": "2013-04-26T21:22:01.102Z",
+   "summary": "Evangelion",
+   "creator": {
+    "email": "I_can_FLY@nyaa-nyaa.com",
+    "displayName": "FLY Bro"
+   },
+   "organizer": {
+    "email": "opcqa50eg3clgcl00n2l9ral1k@group.calendar.google.com",
+    "displayName": "Streaming Times",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2013-04-26T23:59:00-04:00"
+   },
+   "end": {
+    "dateTime": "2013-04-27T23:59:00-04:00"
+   },
+   "iCalUID": "0ghr6cr364h172e2u7r3222920@google.com",
+   "sequence": 1
+  }
+ ]
+}
